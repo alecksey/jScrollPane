@@ -5,10 +5,7 @@
 		"GPL-2.0"
 	],
 	"main": [
-		"./script/jquery.mousewheel.js",
-		"./script/mwheelIntent.js",
-		"./script/jquery.jscrollpane.js",
-		"./script/jquery.jscrollpane.min.js",
+		"./dist/jquery.jscrollpane.js",
 		"./style/jquery.jscrollpane.css"
 	],
 	"dependencies": {
